@@ -1,0 +1,19 @@
+{
+  "name": "readme-gen",
+  "version": "1.0.0",
+  "description": "Node application meant to create a professional README file based on user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwnsmith12/README-Gen.git"
+  },
+  "author": "Shawn Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shwnsmith12/README-Gen/issues"
+  },
+  "homepage": "https://github.com/shwnsmith12/README-Gen#readme"
+}
